@@ -1,6 +1,7 @@
 db:
-  username: debuggeandoideas-qa
+  username: admin
   maximum-pool-size: 5
   connection-timeout: 20000
-  url: jdbc:postgresql://localhost:5434/companies-qa
-  password: udemy66
+  url: db-qoridev.ctkeim682b5x.sa-east-1.rds.amazonaws.com
+  password: QoriDev24$
+  driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
