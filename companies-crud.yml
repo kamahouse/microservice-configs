@@ -2,6 +2,6 @@ db:
   username: admin
   maximum-pool-size: 5
   connection-timeout: 20000
-  url: db-qoridev.ctkeim682b5x.sa-east-1.rds.amazonaws.com
+  url: jdbc:sqlserver://db-qoridev.ctkeim682b5x.sa-east-1.rds.amazonaws.com
   password: QoriDev24$
   driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
